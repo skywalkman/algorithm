@@ -3,6 +3,7 @@
  * Compute the longest palindrome substring in linear time
  * using Manacher's algorithm.
  *
+ * http://algs4.cs.princeton.edu/53substring/Manacher.java.html
  * http://www.leetcode.com/2011/11/longest-palindromic-substring-part-ii.html
  *
  ************************************************************/
